@@ -87,4 +87,5 @@ function writePassword() {
   passwordText.value = "";
   }
   
+  
 }
